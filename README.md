@@ -1,3 +1,3 @@
 # TempProject
 
-![Image Description](Images/image.png)
+![Image Description](Images/step1.png)
